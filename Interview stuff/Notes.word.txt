@@ -1,0 +1,22 @@
+Python:
+1: install python interpreter from python official website: https://www.python.org/downloads/
+2: Set up system path variables for python and python scripts fodler
+3: verify python --version and pip --version in command prompt and to upgrade use python -m pip install -u pip  
+4: To install selenium: pip install selenium and to check if installed hit pip show selenium in command prompt
+5: Pytest install : pip install pytest an check if installed pip show pytest or pytest --version
+
+
+1. Automation Testing websites:
+* app.vwo.com(https://app.vwo.com/#/login)
+* herocuapp.com (https://id.heroku.com/login)
+https://the-internet.herokuapp.com/
+https://the-internet.herokuapp.com/windows
+* Katalon https://login.katalon.com
+* https://rahulshettyacademy.com/client
+* https://rahulshettyacademy.com/seleniumPractise/#/
+* https://rahulshettyacademy.com/AutomationPractice/
+* https://rahulshettyacademy.com/angularpractice/shop
+* https://rahulshettyacademy.com/dropdownsPractise/
+
+2. locators cheetsheet
+https://devhints.io/xpath
